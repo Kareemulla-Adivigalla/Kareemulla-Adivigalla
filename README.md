@@ -59,6 +59,20 @@
 ### Operating Systems
 - **Windows 11**
 
+## 💼 Work Experience
+
+### Data Analyst | [Logic Square/Fractal] | [Bengaluru, India] | [May 2021 - Present]
+- Analyzed and interpreted large datasets to provide actionable insights for marketing and sales teams.
+- Developed dashboards and reports to track key performance indicators (KPIs), leading to improved decision-making.
+- Conducted statistical analysis to identify trends and patterns, optimizing marketing campaigns and increasing ROI.
+- Collaborated with cross-functional teams to define data requirements and deliver tailored insights.
+
+### Associate Data Analyst | [Logic Square/Fractal] | [Bengaluru, India] | [March 2020 - April 2021]
+- Managed data collection, cleaning, and preprocessing to ensure high-quality, accurate datasets.
+- Utilized advanced data visualization techniques to communicate complex findings to non-technical stakeholders.
+- Applied A/B testing and hypothesis testing to guide marketing strategies, leading to a 15% improvement in campaign effectiveness.
+- Created predictive models to forecast sales trends, contributing to a 10% increase in revenue.
+
 ## 🚀 Projects
 - **[Project 1 Name](#):** Brief description of what the project is about and what you achieved.
 - **[Project 2 Name](#):** Brief description of what the project is about and what you achieved.
