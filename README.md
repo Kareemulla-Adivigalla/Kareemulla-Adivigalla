@@ -76,10 +76,12 @@ As an Associate Data Analyst, I laid the foundation for impactful data solutions
 - Created predictive models to forecast sales trends, contributing to a 10% increase in revenue.
 
 ## 🚀 Projects
-- **[Electric Vehicle (EV) Adoption in Washington State](https://github.com/Kareemulla-Adivigalla/Electric-Vehicle-EV-Adoption-Analysis-in-Washington-State):
-- ** Project Overview
+- [Electric Vehicle (EV) Adoption in Washington State](https://github.com/Kareemulla-Adivigalla/Electric-Vehicle-EV-Adoption-Analysis-in-Washington-State):
+
+Project Overview
 - This project analyzed electric vehicle (EV) adoption in Washington State. The main goals were to understand where EVs are most and least popular, how EV adoption has grown over time, and what types of EVs people prefer. I used data analysis, modeling, and visualization to generate insights that can help shape policies, marketing, and infrastructure planning to boost EV adoption.
-** What I Achieved:
+
+What I Achieved:
 - King County has the highest EV adoption, with clear differences between urban and rural areas.
 - EV adoption, especially for Battery Electric Vehicles (BEVs), has sharply increased in recent years.
 - There is a strong preference for BEVs over Plug-in Hybrid Electric Vehicles (PHEVs), particularly in urban areas.
