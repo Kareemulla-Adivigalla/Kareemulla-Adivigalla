@@ -10,7 +10,7 @@
 ## 📊 Statistical Techniques
 - **A/B Testing** | **Hypothesis Testing** | **Correlation Analysis**
 - **Regression Analysis** | **ANOVA** | **K-Means Clustering**
-- **ARIMA** | **Sentiment Analysis** | **Cohort Analysis**
+- **ARIMA** | Prophet | **Sentiment Analysis** | **Cohort Analysis**
 - **Marketing Attribution Modeling** | **RFM Analysis** | **Market Basket Analysis**
 
 ## 🧰 Tools & Technologies
@@ -88,7 +88,6 @@ What I Achieved:
 - I provided recommendations to expand EV infrastructure, offer targeted incentives, and support the continued growth of EVs across the state.
 
 - **[Project 2 Name](#):** Brief description of what the project is about and what you achieved.
-- **[Project 3 Name](#):** Brief description of what the project is about and what you achieved.
 
 ## 🎓 Education
 - **M. Tech, Production Engineering** | Sri Venkateswara University, Tirupati, India | *Jan 2018*
