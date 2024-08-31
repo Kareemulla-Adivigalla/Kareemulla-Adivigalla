@@ -10,7 +10,7 @@
 ## 📊 Statistical Techniques
 - **A/B Testing** | **Hypothesis Testing** | **Correlation Analysis**
 - **Regression Analysis** | **ANOVA** | **K-Means Clustering**
-- **ARIMA** | Prophet | **Sentiment Analysis** | **Cohort Analysis**
+- **ARIMA** | **Prophet** | **XGBoost** | **Sentiment Analysis** | **Cohort Analysis**
 - **Marketing Attribution Modeling** | **RFM Analysis** | **Market Basket Analysis**
 
 ## 🧰 Tools & Technologies
