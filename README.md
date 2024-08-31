@@ -87,7 +87,16 @@ What I Achieved:
 - There is a strong preference for BEVs over Plug-in Hybrid Electric Vehicles (PHEVs), particularly in urban areas.
 - I provided recommendations to expand EV infrastructure, offer targeted incentives, and support the continued growth of EVs across the state.
 
-- **[Project 2 Name](#):** Brief description of what the project is about and what you achieved.
+- **[UK Retail Sales Analysis](https://github.com/Kareemulla-Adivigalla/UK-Retail-Sales-Analysis-2010-2011):
+- The UK-Retail-Sales-Analysis-2010-2011 project analyzes retail sales data from a UK-based online store, covering transactions between 2010 and 2011. The analysis focuses on understanding sales trends, customer behavior, and seasonality to inform strategic decisions in inventory management, marketing, and operational planning.
+
+What I Achieved:
+- Successfully cleaned and prepared a large dataset, ensuring data quality and consistency.
+- Conducted Exploratory Data Analysis to uncover key sales trends, customer behavior, and seasonal patterns.
+- Utilized SQL Server for data querying and manipulation, enabling focused analysis of sales performance across different dimensions.
+- Built Arima, XGBoost, and Prophet predictive models using Python to forecast future sales, offering valuable insights for strategic decisions.
+- Created a comprehensive Power BI dashboard to effectively communicate findings.
+- Provided key findings & actionable recommendations to optimize sales performance, inventory management, and marketing strategies.
 
 ## 🎓 Education
 - **M. Tech, Production Engineering** | Sri Venkateswara University, Tirupati, India | *Jan 2018*
