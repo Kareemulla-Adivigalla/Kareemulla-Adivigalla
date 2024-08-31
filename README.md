@@ -76,7 +76,7 @@ As an Associate Data Analyst, I laid the foundation for impactful data solutions
 - Created predictive models to forecast sales trends, contributing to a 10% increase in revenue.
 
 ## 🚀 Projects
-- 1) [Electric Vehicle (EV) Adoption in Washington State](https://github.com/Kareemulla-Adivigalla/Electric-Vehicle-EV-Adoption-Analysis-in-Washington-State):
+- [Electric Vehicle (EV) Adoption in Washington State](https://github.com/Kareemulla-Adivigalla/Electric-Vehicle-EV-Adoption-Analysis-in-Washington-State):
 
 Project Overview
 - This project analyzed electric vehicle (EV) adoption in Washington State. The main goals were to understand where EVs are most and least popular, how EV adoption has grown over time, and what types of EVs people prefer. I used data analysis, modeling, and visualization to generate insights that can help shape policies, marketing, and infrastructure planning to boost EV adoption.
@@ -87,7 +87,7 @@ What I Achieved:
 - There is a strong preference for BEVs over Plug-in Hybrid Electric Vehicles (PHEVs), particularly in urban areas.
 - I provided recommendations to expand EV infrastructure, offer targeted incentives, and support the continued growth of EVs across the state.
 
-- 2) [UK Retail Sales Analysis](https://github.com/Kareemulla-Adivigalla/UK-Retail-Sales-Analysis-2010-2011):
+- [UK Retail Sales Analysis](https://github.com/Kareemulla-Adivigalla/UK-Retail-Sales-Analysis-2010-2011):
 - The UK-Retail-Sales-Analysis-2010-2011 project analyzes retail sales data from a UK-based online store, covering transactions between 2010 and 2011. The analysis focuses on understanding sales trends, customer behavior, and seasonality to inform strategic decisions in inventory management, marketing, and operational planning.
 
 What I Achieved:
