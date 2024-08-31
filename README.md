@@ -87,7 +87,7 @@ What I Achieved:
 - There is a strong preference for BEVs over Plug-in Hybrid Electric Vehicles (PHEVs), particularly in urban areas.
 - I provided recommendations to expand EV infrastructure, offer targeted incentives, and support the continued growth of EVs across the state.
 
-- **[UK Retail Sales Analysis](https://github.com/Kareemulla-Adivigalla/UK-Retail-Sales-Analysis-2010-2011):
+- [UK Retail Sales Analysis](https://github.com/Kareemulla-Adivigalla/UK-Retail-Sales-Analysis-2010-2011):
 - The UK-Retail-Sales-Analysis-2010-2011 project analyzes retail sales data from a UK-based online store, covering transactions between 2010 and 2011. The analysis focuses on understanding sales trends, customer behavior, and seasonality to inform strategic decisions in inventory management, marketing, and operational planning.
 
 What I Achieved:
