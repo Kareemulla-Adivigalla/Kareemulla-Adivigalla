@@ -62,14 +62,14 @@
 
 ## 💼 Work Experience
 
-### Data Analyst | Logic Square/Fractal | Bengaluru, India | May 2021 - Present
+### Data Analyst | Logic Square/Amazon | Bengaluru, India | May 2021 - Present
 Transforming complex datasets into actionable insights, I spearhead data-driven strategies that optimize business outcomes. My role involves not just crunching numbers, but weaving data into stories that drive informed decision-making and fuel business growth.
 - Analyzed and interpreted large datasets to provide actionable insights for marketing and sales teams.
 - Developed dashboards and reports to track key performance indicators (KPIs), leading to improved decision-making.
 - Conducted statistical analysis to identify trends and patterns, optimizing marketing campaigns and increasing ROI.
 - Collaborated with cross-functional teams to define data requirements and deliver tailored insights.
 
-### Associate Data Analyst | Logic Square/Fractal | Bengaluru, India | March 2020 - April 2021
+### Associate Data Analyst | Logic Square/Amazon | Bengaluru, India | March 2020 - April 2021
 As an Associate Data Analyst, I laid the foundation for impactful data solutions, turning raw data into meaningful insights. My journey here was all about sharpening my analytical skills, mastering data tools, and contributing to projects that made a real difference.
 - Managed data collection, cleaning, and preprocessing to ensure high-quality, accurate datasets.
 - Utilized advanced data visualization techniques to communicate complex findings to non-technical stakeholders.
