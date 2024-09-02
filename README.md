@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kareemulla Adivigalla
+# 👋 Hi, I'm Kareemullaa
 
 ## 🌟 Summary
 **Data-driven and results-oriented Data Analyst** with 4+ years of experience in translating Marketing, E-commerce, and Retail data into actionable insights. Proven ability to analyze complex datasets, identify patterns & trends, and develop data-driven recommendations to optimize marketing campaigns and improve ROI. Skilled in utilizing various data analysis tools and techniques to communicate findings effectively to stakeholders.
