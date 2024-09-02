@@ -28,6 +28,7 @@
 
 ### Cloud Platforms
 - **Google Cloud:** Cloud Storage, BigQuery, Cloud SQL Studio, Looker
+- **AWS:** AWS S3, Amazon Redshift, AWS Glue, Apache Airflow, Amazon SageMaker, Amazon QuickSight 
 
 ### Statistical Analysis
 - **SAS Jmp**
